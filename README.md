@@ -1,4 +1,4 @@
-# Amigo Secreto
+rr# Amigo Secreto
 
 Este projeto é uma aplicação web simples para organizar sorteios de amigo secreto. Os usuários podem adicionar nomes de participantes e, em seguida, realizar um sorteio aleatório para determinar quem será o amigo secreto de quem.
 
